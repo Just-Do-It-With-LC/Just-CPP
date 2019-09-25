@@ -1,0 +1,24 @@
+Detecting C [-std=c11] compiler features failed to compile with the following output:
+Change Dir: C:/_developSoftKu/CLion-2019.2.2.win/#CodeKu/Just CPP/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):D:/mingw-w64/i686-8.1.0-posix-dwarf-rt_v6-rev0/mingw32/bin/mingw32-make.exe cmTC_9ef7d/fast 
+D:/mingw-w64/i686-8.1.0-posix-dwarf-rt_v6-rev0/mingw32/bin/mingw32-make.exe -f CMakeFiles\cmTC_9ef7d.dir\build.make CMakeFiles/cmTC_9ef7d.dir/build
+mingw32-make.exe[1]: Entering directory 'C:/_developSoftKu/CLion-2019.2.2.win/#CodeKu/Just CPP/cmake-build-debug/CMakeFiles/CMakeTmp'
+mingw32-make.exe[1]: *** No rule to make target 'C:/_developSoftKu/CLion-2019.2.2.win/', needed by 'CMakeFiles/cmTC_9ef7d.dir/feature_tests.c.obj'.  Stop.
+mingw32-make.exe[1]: Leaving directory 'C:/_developSoftKu/CLion-2019.2.2.win/#CodeKu/Just CPP/cmake-build-debug/CMakeFiles/CMakeTmp'
+mingw32-make.exe: *** [Makefile:120: cmTC_9ef7d/fast] Error 2
+
+
+
+Detecting CXX [-std=c++2a] compiler features failed to compile with the following output:
+Change Dir: C:/_developSoftKu/CLion-2019.2.2.win/#CodeKu/Just CPP/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):D:/mingw-w64/i686-8.1.0-posix-dwarf-rt_v6-rev0/mingw32/bin/mingw32-make.exe cmTC_3b93c/fast 
+D:/mingw-w64/i686-8.1.0-posix-dwarf-rt_v6-rev0/mingw32/bin/mingw32-make.exe -f CMakeFiles\cmTC_3b93c.dir\build.make CMakeFiles/cmTC_3b93c.dir/build
+mingw32-make.exe[1]: Entering directory 'C:/_developSoftKu/CLion-2019.2.2.win/#CodeKu/Just CPP/cmake-build-debug/CMakeFiles/CMakeTmp'
+mingw32-make.exe[1]: *** No rule to make target 'C:/_developSoftKu/CLion-2019.2.2.win/', needed by 'CMakeFiles/cmTC_3b93c.dir/feature_tests.cxx.obj'.  Stop.
+mingw32-make.exe[1]: Leaving directory 'C:/_developSoftKu/CLion-2019.2.2.win/#CodeKu/Just CPP/cmake-build-debug/CMakeFiles/CMakeTmp'
+mingw32-make.exe: *** [Makefile:120: cmTC_3b93c/fast] Error 2
+
+
+
